@@ -3,6 +3,10 @@
 # datacheckerbitcoinanddatabase
 Bitcoin Private Key Navigator is an offline HTML page-by-page viewer; DataChecker is a Python CLI for generating, analysing or searching Bitcoin keys; Key-SiteFinder shows where a key sits in the database. All run unchanged on Windows or Ubuntu.
 
+# Screenshots
+![Screenshot 063836](./Screenshot%202025-08-05%20063836.png)
+![Screenshot 063852](./Screenshot%202025-08-05%20063852.png)
+
 # Bitcoin Private Key Navigator (Wide HTML) — English UI
 
 A single-file, no-backend explorer that lets you **jump to any Bitcoin private
