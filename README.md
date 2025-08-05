@@ -78,6 +78,8 @@ No cryptographic logic changed.
 
 ---
 
+For further information, send me a message at andreas.contact.office@gmail.com.
+
 ## Quick Start
 
 ```bash
